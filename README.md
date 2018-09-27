@@ -18,8 +18,8 @@
 ## Usage
 
 ```shell
-$ git clone http://gitlab.csvw.com/sunhao4/faceRecognition.git
-$ cd faceRecognition
+$ git clone https://github.com/HulkSun/faceSearch.git
+$ cd faceSearch
 $ pip install -r requirements.txt
 $ python main.py
 ```
@@ -34,7 +34,7 @@ $ pyinstall main.spec
 ## 项目结构
 
 ```bash
-faceRecognition
+faceSearch
 │  main.py # 程序入口
 |  logger.py # 日志配置
 │  README.md # 说明文件
